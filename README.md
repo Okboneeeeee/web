@@ -8,7 +8,8 @@ __系級：科技系115級__
 ### HW1 個人網站 
 <https://okboneeeeee.github.io/web/>
 ### HW2
-### HW3
+### HW3 
+[React+初步設計+code](https://youtu.be/iG8ZOuFxnTM)
 ### HW4  
   
 ## 專題繳交區  
