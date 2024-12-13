@@ -15,4 +15,8 @@ __系級：科技系115級__
 [HW3部署網站](https://web-hw3-1.onrender.com)
   
 ## 專題繳交區  
+[Youtube](https://www.youtube.com/watch?v=P6KZMJltXSI) 
+[Calender task manager部署網站](https://web-calender-16np.onrender.com) 
+[github原始碼]()
+
 
